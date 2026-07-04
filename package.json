@@ -46,7 +46,7 @@
 		}
 	},
 	"bin": {
-		"twts": "./dist/cli.js"
+		"twts": "dist/cli.js"
 	},
 	"scripts": {
 		"build": "tsup",
